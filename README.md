@@ -29,4 +29,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 - Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
 - Format repo description as "A space inspired theme for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- Generate and upload social image via [Lunar Images](https://lunar-images.vercel.app)
